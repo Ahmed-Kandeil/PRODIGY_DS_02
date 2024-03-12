@@ -36,5 +36,5 @@ Don't forget to star ⭐ this repository to stay updated with the latest develop
 
 For any inquiries or collaborations, feel free to reach out:
 
-- Email: [your@email.com](mailto:your@email.com)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourprofile)
+- Email: [aamr11403@gmail.com](mailto:aamr11403@gmail.com)
+- LinkedIn: [Ahmed Kandil](https://www.linkedin.com/in/ahmed-kandil-/)
